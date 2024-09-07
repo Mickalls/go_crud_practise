@@ -1,0 +1,5 @@
+url: localhost
+userName: root
+password: 20031101
+dbname: goCRUD_DB1
+post: 3306
